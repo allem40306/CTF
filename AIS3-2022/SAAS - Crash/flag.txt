@@ -1,0 +1,6 @@
+插入一個空字串，查詢兩次
+
+free(): double free detected in tcache 2
+timeout: the monitored command dumped core
+
+AIS3{congrats_on_crashing_my_editor!_but_can_you_get_shell_from_it?}
